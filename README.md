@@ -1,2 +1,4 @@
 # resume_cv
-Hey 👋 there! I'm Daniel! Looking to hire me?
+Hey 👋 there! I'm Daniel!
+
+Download my [resume]().
